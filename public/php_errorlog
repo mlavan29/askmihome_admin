@@ -1,0 +1,49 @@
+[12-Dec-2023 10:13:54 UTC] PHP Warning:  Undefined array key "script" in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 171
+[12-Dec-2023 10:13:54 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PREFIX" in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 171
+[12-Dec-2023 10:13:54 UTC] PHP Warning:  session_cache_limiter(): Session cache limiter cannot be changed after headers have already been sent in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 171
+[12-Dec-2023 10:13:54 UTC] PHP Warning:  session_name(): Session name cannot be changed after headers have already been sent in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 171
+[12-Dec-2023 10:13:54 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed after headers have already been sent in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 171
+[12-Dec-2023 10:13:54 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 171
+[12-Dec-2023 10:13:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php:20
+Stack trace:
+#0 /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php(171): remove_slashes(Array, false)
+#1 {main}
+  thrown in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 20
+[12-Dec-2023 10:37:17 UTC] PHP Warning:  Undefined array key "script" in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 186
+[12-Dec-2023 10:37:17 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PREFIX" in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 186
+[12-Dec-2023 10:37:17 UTC] PHP Warning:  session_cache_limiter(): Session cache limiter cannot be changed after headers have already been sent in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 186
+[12-Dec-2023 10:37:17 UTC] PHP Warning:  session_name(): Session name cannot be changed after headers have already been sent in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 186
+[12-Dec-2023 10:37:17 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed after headers have already been sent in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 186
+[12-Dec-2023 10:37:17 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 186
+[12-Dec-2023 10:37:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_runtime() in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php:186
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 186
+[12-Dec-2023 10:52:43 UTC] PHP Warning:  Undefined array key "script" in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 171
+[12-Dec-2023 10:52:43 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PREFIX" in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 171
+[12-Dec-2023 10:52:43 UTC] PHP Warning:  session_cache_limiter(): Session cache limiter cannot be changed after headers have already been sent in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 171
+[12-Dec-2023 10:52:43 UTC] PHP Warning:  session_name(): Session name cannot be changed after headers have already been sent in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 171
+[12-Dec-2023 10:52:43 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed after headers have already been sent in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 171
+[12-Dec-2023 10:52:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 171
+[12-Dec-2023 10:52:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php:20
+Stack trace:
+#0 /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php(171): remove_slashes(Array, false)
+#1 {main}
+  thrown in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 20
+[12-Dec-2023 10:55:24 UTC] PHP Warning:  Undefined array key "script" in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 171
+[12-Dec-2023 10:55:24 UTC] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_PREFIX" in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 171
+[12-Dec-2023 10:55:24 UTC] PHP Warning:  session_cache_limiter(): Session cache limiter cannot be changed after headers have already been sent in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 171
+[12-Dec-2023 10:55:24 UTC] PHP Warning:  session_name(): Session name cannot be changed after headers have already been sent in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 171
+[12-Dec-2023 10:55:24 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed after headers have already been sent in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 171
+[12-Dec-2023 10:55:24 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 171
+[12-Dec-2023 10:55:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_magic_quotes_gpc() in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php:20
+Stack trace:
+#0 /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php(171): remove_slashes(Array, false)
+#1 {main}
+  thrown in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 20
+[12-Dec-2023 11:09:40 UTC] PHP Warning:  Undefined variable $Ah in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 1787
+[12-Dec-2023 11:19:23 UTC] PHP Warning:  Undefined variable $Ah in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 1787
+[12-Dec-2023 11:20:34 UTC] PHP Warning:  Undefined variable $Ah in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 1787
+[12-Dec-2023 11:22:21 UTC] PHP Warning:  Undefined variable $Ah in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 1787
+[13-Dec-2023 04:07:41 UTC] PHP Warning:  Undefined variable $Ah in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 1787
+[18-Dec-2023 12:58:32 UTC] PHP Warning:  Undefined variable $Ah in /home/customer/www/gromartadmin.siswebapp.com/public_html/public/padmin.php on line 1787
